@@ -98,6 +98,7 @@ SITES = {
     'smgbb'            : 'bilibili',
     'sohu'             : 'sohu',
     'soundcloud'       : 'soundcloud',
+    'tangdou'          : 'tangdou',
     'ted'              : 'ted',
     'theplatform'      : 'theplatform',
     'tiktok'           : 'tiktok',

@@ -65,6 +65,7 @@ from .sina import *
 from .sohu import *
 from .soundcloud import *
 from .suntv import *
+from .tangdou import *
 from .ted import *
 from .theplatform import *
 from .tiktok import *
